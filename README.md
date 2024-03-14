@@ -5,6 +5,6 @@ Features
 
 Background Keylogging: The keylogger captures keystrokes while running in the background without interrupting the user's activities.
 
-Customizable Output: Keystrokes are logged into a text file named keylogger.txt. Special keys such as Backspace, Delete, and Enter are logged as <Backspace>, <Del>, and <Enter> respectively.
+Customizable Output: Keystrokes are logged into a text file named keylogger.txt.
 
 Graceful Termination: The keylogger can be terminated gracefully by pressing Ctrl+C.
